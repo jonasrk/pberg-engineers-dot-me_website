@@ -1,0 +1,31 @@
+.about{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+}
+
+.message{
+    font-size: 10px;
+    font-weight: italic;
+    text-align: center;
+}
+
+.img{
+    margin: 10;
+}
+
+.colorful {
+    background-color: #fbbe5b;
+}
+
+.navbar-brand{
+
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+
+}
+
+.footer{
+    font-size: 10px;
+    font-weight: lighter;
+}
