@@ -38,6 +38,31 @@
     font-weight: lighter;
 }
 
+.carousel-content {
+    background-color: #fff;
+    margin: 20px;
+    padding-left: 40px;
+    padding-right: 30px;
+    text-align: left;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon,
+.bi-chevron-left,
+.bi-chevron-right {
+    color: #000;
+}
+
+.carousel-heading {
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .carousel-content {
+        padding-left: 30px;
+        padding-right: 20px;
+    }
+}
 .schedule-section, .location-section {
     display: flex;
     align-items: center;
